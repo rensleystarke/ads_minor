@@ -31,7 +31,7 @@ In het deel Program courses staan alle program courses uit het study schedule.
 
 ## 1.1 Toegewezen Datacamp courses <a name="Bewijs_Datacamp"></a>
 Tijdens deze minor waren er een aantal Datacamp courses toegewezen, hieronder is het bewijs dat ik ze heb volbracht. 
-Het bewijs staat in de map [Bewijs Datacamp]https://github.com/rensleystarke/ads_minor/tree/master/datacampV) te vinden.
+Het bewijs staat in de map [Bewijs Datacamp](https://github.com/rensleystarke/ads_minor/tree/master/datacampV) te vinden.
 Ps. De kwaliteit van de screenshot is af en toe wat slechter door de groote van de courses.
 
 * [Intro to python for data science](https://github.com/rensleystarke/ads_minor/blob/master/datacampV/Week1_Intro_to_Python_for_Data_science.JPG)
