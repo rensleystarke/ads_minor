@@ -115,7 +115,7 @@ De markdown zijn in de map [Exploratory Data Analysis](https://github.com/rensle
 ## 2.1 Calling bullshit <a name="Calling_bullshit"></a>
 Tijdens deze minor heb ik de Calling bullshit opdracht gemaakt. 
 Deze is in de map [Calling bullshit](https://github.com/rensleystarke/ads_minor/tree/master/Calling%20Bullshit%20workshop) te vinden.
-* [Calling Bullshit](https://github.com/rensleystarke/ads_minor/blob/master/Calling%20Bullshit%20workshop/calling%20bullshit%20in%20the%20age%20of%20big%20data.docx)
+* [Calling Bullshit](https://github.com/rensleystarke/ads_minor/blob/master/Calling%20Bullshit%20workshop/calling%20bullshit%20in%20the%20age%20of%20big%20data.pdf)
 
 ---
 
@@ -124,11 +124,11 @@ Deze is in de map [Calling bullshit](https://github.com/rensleystarke/ads_minor/
 ## 3.1 Presentaties <a name="Presentaties"></a>
 Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen. Dit werd gedaan door middel van een presentatie. In totaal heb ik 5 keer mogen presenteren. De presentaties zijn te vinden onder de map [Presentaties](https://github.com/rensleystarke/ads_minor/tree/master/Presentaties).
 
-* [Presentatie 1](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2009-08.pptx)
-* [Presentatie 2](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2010-06.pptx)
-* [Presentatie 3](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2011-17.pptx)
-* [Presentatie 4](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2012-01.pptx)
-* [Presentatie 5](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%202018-01-19.pptx)
+* [Presentatie 1](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2009-08.pdf)
+* [Presentatie 2](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2010-06.pdf)
+* [Presentatie 3](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2011-17.pdf)
+* [Presentatie 4](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2012-01.pdf)
+* [Presentatie 5](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%202018-01-19.pdf)
 
 
 ---
@@ -137,7 +137,7 @@ Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen
 
 Het project was een onderzoek naar het klimaatregelsysteem van De Haagse Hogeschool te Delft, hierbij luidde de hoofdvraag: "Hoe kan sensordata van De Haagse Hogeschool te Delft automatisch worden geanalyseerd en gepresenteerd zodat anomalieën real time gemeld worden?"  Dit was namelijk omdat het gebouw een heleboel sensoren heeft en doormiddel van deze sensoren heeft het gebouw de mogelijkheid zichzelf te reguleren. 
 
-Toen het project van start ging werd er begonnen met vooronderzoek te doen naar de opdracht, hiervoor heb ik toen een stuk geschreven over het [gebouw](https://github.com/rensleystarke/ads_minor/blob/master/Project/Documenten/Info%20over%20het%20gebouw.docx) die we onderzoeken. Vervolgens is het projectgroep in drieën gesplits om verschillende methodieken te onderzoeken om anomalieën te detecteren en mogelijk het gebouw optimaler te laten werken op het gebied van comfort. De groepen bestonden uit drie onderzoeksleden met als onderwerpen: Rule Based System, Bayesian Belief Network en Deep Learning. 
+Toen het project van start ging werd er begonnen met vooronderzoek te doen naar de opdracht, hiervoor heb ik toen een stuk geschreven over het [gebouw](https://github.com/rensleystarke/ads_minor/blob/master/Project/Documenten/Info%20over%20het%20gebouw.pdf) die we onderzoeken. Vervolgens is het projectgroep in drieën gesplits om verschillende methodieken te onderzoeken om anomalieën te detecteren en mogelijk het gebouw optimaler te laten werken op het gebied van comfort. De groepen bestonden uit drie onderzoeksleden met als onderwerpen: Rule Based System, Bayesian Belief Network en Deep Learning. 
 
 Ik zat in het groepje Deep Learning, wat nogal hoog gegrepen was achteraf te zien, mijn voorkennis op het gebied van programmeren en Data Science was minimaal tot nihil. Daarom begon ik met kennis op doen, het eerste wat ik had gedaan was literatuur onderzoek, waarbij het [Deeplearning](http://www.deeplearningbook.org/) boek goed heeft geholpen om een richting te krijgen met wat deep learning in houdt.
 Vervolgens ben ik mijn kennis gaan verbreden in het programmeren van Deep Learning modellen, dit heb ik gedaan door middel van een datacamp cursus genaamd ["Deep Learning in Python"](https://github.com/rensleystarke/ads_minor/blob/master/Project/Datacamp%20course/Deep_Learning_in_PythonJPG.JPG). 
