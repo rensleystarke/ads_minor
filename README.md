@@ -20,7 +20,7 @@ Het doel van dit portfolio is om mijn voortgang te tonen op het vakgebied Applie
 1.5 [Calling bullshit](#Calling_bullshit)<br >
 
 ### 3. [Presentaties project](#Vertegenwoordigen_project)
-2.1 [Presentaties](#Vrijdag_presentaties)<br >
+2.1 [Presentaties](#Presentaties)<br >
 
 ### 4. [Project](#Project)
 3.1 [Verkenningsfase project](#Verkenningsfase_project)<br >
@@ -121,61 +121,44 @@ Deze is in de map [Calling bullshit](https://github.com/stevenwetstein/Smartbuil
 
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
-## 2.1 Vrijdag presentaties <a name="Vrijdag_presentaties"></a>
-Tijdens de vrijdag heb ik op drie momenten een presentatie gegeven. Deze presentaties zijn te vinden onder de map [Presentaties vrijdag](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag).
+## Presentaties <a name="Presentaties"></a>
+Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen. Dit werd gedaan door middel van een presentatie. In totaal heb ik 5 keer mogen presenteren. De presentaties zijn te vinden onder de map [Presentaties](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag).
 
-* [Presentatie 1](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2009-22.pptx)
-* [Presentatie 2](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2010-27.pptx)
-* [Presentatie 3](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentaties%20vrijdag/Presentatie%2012-15.pptx)
+* [Presentatie 1](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2009-08.pptx)
+* [Presentatie 2](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2010-06.pptx)
+* [Presentatie 3](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2011-17.pptx)
+* [Presentatie 4](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2012-01.pptx)
+* [Presentatie 5](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%202018-01-19.pptx)
 
-## 2.2 Presentatie symposium <a name="Presentatie_Symposium"></a>
-Gedurende dit blok hebben wij toegewerkt naar het smartbuilding symposium. Op dit evenement heb ik samen met Bob Tuynman en Jan Dirk Schagen gepresenteerd.
-Ik vond het een mooie ervaring om te presenteren voor mensen die zoveel van deze sector weten. Hiernaast kregen we veel informatie over andere projecten en ideeen wat betreft smartbuilding. De presentatie is te vinden in de map [Presentatie symposium](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentatie%20symposium).
-
-* [Presentatie Symposium](https://github.com/stevenwetstein/Smartbuilding/blob/master/Presentatie%20symposium/symposium.pptx)
-
-## 2.3 Gefilmd over project <a name="Gefilmd_over_project"></a>
-Tijdens ons project is er een film gemaakt voor de RAAK 2020 awards. Als projectteam waren wij onderdeel van het lectoraat waar deze prijs uiteindelijk naar ging.
-Samen met Bob Tuynman speel ik in de promotiefilm voor de RAAK awards. Het filmpje is hier te zien:
-https://www.youtube.com/watch?v=mgY_D_nsCDw&t=.
-
-* [![RAAK 2020 Award](http://img.youtube.com/vi/=mgY_D_nsCDw/0.jpg)](http://www.youtube.com/watch?v=mgY_D_nsCDw&t=)
 
 ---
 
 # 3. Project <a name="Project"></a>
 
-## 3.1 Verkenningsfase project <a name="Verkenningsfase_project"></a>
-Tijdens de verkenningsfase waren er een aantal onderdelen die moesten worden uitgevoerd. De eerste weken werden besteed om in te lezen in het onderwerp. Hierbij werden verscheidene hoofd en deelvragen opgesteld. Tijdens deze fase waren er veel groepsproducten die we hebben opgeleverd. Naar mijn mening was dit in het begin ook een van onze problemen. We probeerden alles als groep te doen wat inefficiënt was. Tijdens deze fase was de voortgang langzaam. <br  >
+Het project was een onderzoek naar het klimaatregelsysteem van De Haagse Hogeschool te Delft hierbij luidde de hoofdvraag: "Hoe kan sensordata van De Haagse Hogeschool te Delft automatisch worden geanalyseerd en gepresenteerd zodat anomalieën real time gemeld worden?"  Dit was namelijk omdat het gebouw een heleboel sensoren heeft en doormiddel van deze sensoren heeft het gebouw de mogelijkheid zichzelf te reguleren. 
 
-Onderdeel van dit opstartproces was de stakeholderanalyse. Er is gezamenlijk informatie gezocht over de verscheidene stakeholders. Waarna ik deze stakeholderanalyse heb uitgewerkt, het resultaat is 
- [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Stakeholders%20analyse.pdf) te vinden.
-Op dit punt hebben we als groep de scope, hoofd en deelvragen afgerond. We willen gaan beginnen met analyseren. Aangezien onze kennis van data science op dit punt nog minimaal is weten we niet waar te beginnen. De beslissing wordt gemaakt om de capaciteit van verschillende apps te onderzoeken. Ik heb Qlikview onderzocht door middel van tutorials te volgen. Voor onze bevindingen hadden we een standaardformat opgesteld. Het ingevulde format voor Qlikview is [hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Qlikview.pdf) te vinden.
-<br  >
-<br  >
-Na de analyse van Qlikview merkte ik dat er weinig overzicht was in onze literatuur. Onze literatuur was verdeeld over meerdere platformen met eigenlijk geen idee wat er in een bepaalde paper stond. Ik ben begonnen met het inrichten van onze Mendeley. Hier stonden vanaf dit punt al onze bronnen.  [Hier](https://github.com/stevenwetstein/Smartbuilding/blob/master/Verkenningsfase%20project/Mendeley.docx.pdf) leg ik kort uit wat ik gedaan heb met betrekking tot Mendeley.
+Toen het project van start ging was er begonnen met vooronderzoek te doen naar het gebouw hiervoor heb ik toen onderzoek gedaan naar het [gebouw](........). Vervolgens is het projectgroep in drieën gesplits om verschillende methodieken te onderzoeken om anomalieën te detecteren en mogelijk het gebouw optimaler te laten werken op het gebied van comfort. De groepen bestonden uit drie onderzoeksleden met als onderwerpen: Rule Based System, Bayesian Belief Network en Deep Learning. 
+
+Ik zat in het groepje Deep Learning, wat nogal hoog gegrepen was achteraf te zien, mijn voorkennis op het gebied van programmeren en Data Science was minimaal tot nihil. Daarom begon ik met kennis op doen het eerste wat ik had gedaan was literatuur onderzoek, waarbij het [Deeplearning](http://www.deeplearningbook.org/) book goed heeft geholpen om een richting te krijgen met wat deep learning in houdt.
+Vervolgens ben ik mijn kennis gaan verbreden in het programmeren deep learning modellen, dit heb ik gedaan door middel van een datacamp cursus genaamd ["Deep Learning in Python"](.......). 
+Na deze cursus kwam ik erachter dat ik nog steeds niet genoeg kennis had over het onderwerp en ben ik dus nog verder gaan verdiepen in de stof, voorbeelden van het verdiepen zijn bijvoorbeeld het doorlezen van vershillende artikelen op [deeplearning.net](http://deeplearning.net/tutorial/contents.html). Waarbij ik uiteindelijk op de volgende website ben gekomen [machinelearningmaster](https://machinelearningmastery.com/start-here/). Op deze website heb ik toen de tutorial [Multivariate Time Series Forecasting with LSTMs in Keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/). Al snel kwam hieruit dat ik gebrek had op twee punten, het eerste was het schoonmaken van data en het tweede was kennis op het gebied van het model. 
+Toen ik erachter kwam dat ik niet goed wist hoe ik data kon prepareren voor een model had ik hulp gevraagd bij mijn projectlid Gudjon.
+
+Wij twee hebben toen een excel bestand schoongemaakt door middel van VBA in excel, de code is [hier]() te vinden. De code was bedoeld om lege kolommen te verwijden, dubbele kolommen te verwijderen en het interpolleren van lege velden.
+Nadat ik een beter beeld had gekregen van het prepareren van data ben ik weer verder gegaan met het begrijpen van Deep Learning modellen. Ik had weer de [Multivariate Time Series Forecasting with LSTMs in Keras] cursus opgepakt en proberden mijn nieuwe schonen data hierin te plotten. Mijn uiteindelijke code is te [hier](...) vinden. 
+Na het zo goed mogelijk volbrengen van de code hierboven, was een projectlid van Deep Learning verder gekomen met zijn model, deze was een stuk beter. 
+
+Tot slot hebben wij met het gehele onderzoeksteam gezeten voor het onderzoeksverslag en de paper. In deze documenten heb ik het voorwoord geschreven, meegewerkt aan alle Deep Learning onderdelen en de conclusie geschreven in de paper. Tot slot ben ik veelal bezig geweest met het nalezen en feedback geven van beide documenten. 
 
 
 
-## 3.2 Analysefase project <a name="Analysefase_project"></a>
-Voor de tweede fase van het project hebben we de groep in drien gedeeld. De groep waar ik onderdeel van was deed onderzoek naar het rule based system. De Saw applicatie waarmee we moesten gaan werken was defect. Dit was gelijk al een groot probleem. Na het proberen te repareren van de applicatie is er vast gesteld dat dit niet op korte termijn mogelijk was. Echter heeft het programma eerder wel gewerkt en waren hier nog outputs van beschikbaar. We hebben de overstap gemaakt naar het analyseren van deze bestaande data.
-Dit was het eerste punt waar ik mijn geleerde pythonkennis ging gebruiken. Als BIM student vond ik het leuk om met programmeren in aanraking te komen. Ik zal niet de snelste programmeur worden maar ik kan nu meepraten over code en zelf ook mijn mannetje staan. 
-<br  >
-<br  >
-De data bestond uit een aantal lokalen met enkele sensoren. Ik ben mij hier gaan richten op het visualiseren van de data en specifiek anomalien. Hiervoor maakte ik verschillende grafieken om anomalien weer te geven. De code is gebruikt om meer dan 150 grafieken op te stellen voor verschillende lokalen en situaties. Ik heb in dit portfolio een paar grafieken opgenomen als indicatie. De code en grafieken zijn HIER te vinden.
 
-## 3.3 Verbredingsopdracht project <a name="Verbredingsopdracht_project"></a>
-Naast het hoofdonderzoek had Jan Dirk nog een subonderzoek wat betreft de lucht die het gebouw ingezogen wordt. Hiervoor heb ik verschillende datasets gekregen. Om er makkelijk mee te werken heb ik data tot dit format getransformeerd:
-* DATA
-* DATA
-Opvolgend heb ik van de data een aantal grafieken gemaakt. De voornaamste zal ik hier behandelen. 
-De code van deze analyse is HIER te vinden.
-GRAFIEK
-GRAFIEK
 
-Voor deze opdracht heb ik nog een kort verslag geschreven. Deze is HIER te vinden.
 
-Ik vond deze odpracht erg leuk omdat ik beter met python leerde omgaan. Python en machine learning zijn de twee punten in deze minor waarvan ik zeker weet dat ik dit meer ga gebruiken. 
+
+
+
+
 
 
 
