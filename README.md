@@ -1,8 +1,8 @@
 # Portfolio Rensley Starke
 Welkom geachte bezoeker,
 
-Wat u voor u ziet is mijn portfolio, de portfolio gaat over mijn leerweg van de afgelopen weken met betrekking tot mijn minor Applied data science.
-In dit portfolio komen de vaardigheden die ik heb vergaard tijdens de minor naar boven.
+Wat u voor u ziet is mijn portfolio, de portfolio gaat over mijn leerweg van de afgelopen weken met betrekking tot mijn minor Applied Data Science.
+In dit portfolio komen de vaardigheden die ik heb vergaard tijdens de minor naar voren.
 Deze zijn vervolgens ook toegepast op een praktijkopdracht. De praktijkopdracht had betrekking tot een klimaatregelsysteem van De Haagse Hogeschool te Delft.
 Het doel van dit portfolio is om mijn voortgang te tonen op het vakgebied Applied Data Science en mijn bijdrage in het project.
 
@@ -15,18 +15,14 @@ Het doel van dit portfolio is om mijn voortgang te tonen op het vakgebied Applie
 1.3 [Spark tutorials](#Spark_tutorials)<br >
 1.4 [Exploratory data analysis](#Exploratory_Data_Analysis)<br >
 
-### 2. [Workshop](#Kennis_verbreden)
-
-1.5 [Calling bullshit](#Calling_bullshit)<br >
+### 2. [Workshop](#Workshop)
+2.1 [Calling bullshit](#Calling_bullshit)<br >
 
 ### 3. [Presentaties project](#Vertegenwoordigen_project)
-2.1 [Presentaties](#Presentaties)<br >
+3.1 [Presentaties](#Presentaties)<br >
 
 ### 4. [Project](#Project)
-3.1 [Verkenningsfase project](#Verkenningsfase_project)<br >
-3.2 [Analysefase project](#Analysefase_project)<br >
-3.3 [Verbredingsopdracht project](#Verbredingsopdracht_project)<br >
-3.4 [Afrondingsfase project](#Afrondingsfase_project)<br >
+
 
 ---
 
@@ -112,16 +108,20 @@ De markdown zijn in de map [Exploratory Data Analysis](https://github.com/rensle
 * [Opdracht 8](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/8%2BCreating%2BVariables%20(1).md)
 * [Opdracht 9](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/9%2BEvaluate%20(1).md)
 
-## 1.5 Calling bullshit <a name="Calling_bullshit"></a>
+---
+
+# 3. Workshop <a name="Workshop"></a>
+
+## 2.1 Calling bullshit <a name="Calling_bullshit"></a>
 Tijdens deze minor heb ik de Calling bullshit opdracht gemaakt. 
 Deze is in de map [Calling bullshit](https://github.com/rensleystarke/ads_minor/tree/master/Calling%20Bullshit%20workshop) te vinden.
 * [Calling Bullshit](https://github.com/rensleystarke/ads_minor/blob/master/Calling%20Bullshit%20workshop/calling%20bullshit%20in%20the%20age%20of%20big%20data.docx)
 
 ---
 
-# 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
+# 3. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
-## Presentaties <a name="Presentaties"></a>
+## 3.1 Presentaties <a name="Presentaties"></a>
 Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen. Dit werd gedaan door middel van een presentatie. In totaal heb ik 5 keer mogen presenteren. De presentaties zijn te vinden onder de map [Presentaties](https://github.com/rensleystarke/ads_minor/tree/master/Presentaties).
 
 * [Presentatie 1](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2009-08.pptx)
