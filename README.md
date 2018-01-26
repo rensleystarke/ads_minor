@@ -74,7 +74,7 @@ Het bewijs van de opdrachten heb ik gemaakt door middel van markdowns, deze zijn
 
 ## 1.4 Exploratory data analysis <a name="Exploratory_Data_Analysis"></a>
 Tijdens deze minor waren er een aantal Exploratory Data Analysis opdrachten hier staat het bewijs dat ik deze heb gemaakt. 
-De markdown zijn in de map [Exploratory Data Analysis](https://github.com/stevenwetstein/Smartbuilding/tree/master/Exploratory%20Data%20Science) te vinden.
+De markdown zijn in de map [Exploratory Data Analysis](https://github.com/rensleystarke/ads_minor/tree/master/ExploratoryData) te vinden.
 
 * [Opdracht 1](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/1%2BChecking%2BData%2BEdges%20(1).md)
 * [Opdracht 2](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/2%2BIdentifying%2Bvariables.md)
@@ -93,9 +93,9 @@ De markdown zijn in de map [Exploratory Data Analysis](https://github.com/steven
  [Opdracht 4 afbeelding 9](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/4%2BBivariate%2BAnalysis%20(1)/output_5_0.png)<br >
  [Opdracht 4 afbeelding 10](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/4%2BBivariate%2BAnalysis%20(1)/output_8_0.png)
 * [Opdracht 5](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/5%2BMissing%2BValues%20(1).md)
-* [Opdracht 6](https://github.com/stevenwetstein/Smartbuilding/blob/master/Exploratory%20Data%20Science/6%20Outliers.md)<br >
+* [Opdracht 6](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/6%2BOutliers%20(1)/6%20Outliers.md)<br >
  [Opdracht 6 afbeelding](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/6%2BOutliers%20(1)/output_8_1.png)
-* [Opdracht 7](https://github.com/stevenwetstein/Smartbuilding/blob/master/Exploratory%20Data%20Science/7%20Data%20Transformation.md)
+* [Opdracht 7](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/7%2BData%2BTransformation%20(1)/7%20Data%20Transformation.md)<br >
  [Opdracht 7 afbeelding 1](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/7%2BData%2BTransformation%20(1)/output_14_0.png)<br >
  [Opdracht 7 afbeelding 2](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/7%2BData%2BTransformation%20(1)/output_14_1.png)<br >
  [Opdracht 7 afbeelding 3](https://github.com/rensleystarke/ads_minor/blob/master/ExploratoryData/7%2BData%2BTransformation%20(1)/output_16_0.png)<br >
@@ -114,15 +114,15 @@ De markdown zijn in de map [Exploratory Data Analysis](https://github.com/steven
 
 ## 1.5 Calling bullshit <a name="Calling_bullshit"></a>
 Tijdens deze minor heb ik de Calling bullshit opdracht gemaakt. 
-Deze is in de map [Calling bullshit](https://github.com/stevenwetstein/Smartbuilding/tree/master/Calling%20bulshit) te vinden.
-* [Calling Bullshit](https://github.com/stevenwetstein/Smartbuilding/blob/master/Calling%20bulshit/Calling%20bullshit%20v1.0.pdf)
+Deze is in de map [Calling bullshit](https://github.com/rensleystarke/ads_minor/tree/master/Calling%20Bullshit%20workshop) te vinden.
+* [Calling Bullshit](https://github.com/rensleystarke/ads_minor/blob/master/Calling%20Bullshit%20workshop/calling%20bullshit%20in%20the%20age%20of%20big%20data.docx)
 
 ---
 
 # 2. Vertegenwoordigen project <a name="Vertegenwoordigen_project"></a>
 
 ## Presentaties <a name="Presentaties"></a>
-Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen. Dit werd gedaan door middel van een presentatie. In totaal heb ik 5 keer mogen presenteren. De presentaties zijn te vinden onder de map [Presentaties](https://github.com/stevenwetstein/Smartbuilding/tree/master/Presentaties%20vrijdag).
+Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen. Dit werd gedaan door middel van een presentatie. In totaal heb ik 5 keer mogen presenteren. De presentaties zijn te vinden onder de map [Presentaties](https://github.com/rensleystarke/ads_minor/tree/master/Presentaties).
 
 * [Presentatie 1](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2009-08.pptx)
 * [Presentatie 2](https://github.com/rensleystarke/ads_minor/blob/master/Presentaties/Presentatie%2010-06.pptx)
