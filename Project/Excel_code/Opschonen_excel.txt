@@ -1,0 +1,167 @@
+Sub Opsplitsing()
+
+Application.ScreenUpdating = False
+
+Dim a, b, c, d As Integer ' a=rij  b=locatie binnen string     c=colom      d=vorige locatie ";"
+Dim aantal As Integer
+Dim inhoud As String
+
+' Waarden uit CSV moeten in colom 1 staan
+a = 1
+Do While Cells(a, 1) <> ""
+    c = 2
+    d = 1
+    aantal = Len(Cells(a, 1))
+    inhoud = CStr(Cells(a, 1))
+    For b = 1 To aantal
+        If Mid(inhoud, b, 1) = ";" Then ' Dit werkt alleen voor ",", als het anders is gesepareerd voeg het dan toe
+            Cells(a, c) = Mid(inhoud, d, (b - d))
+            c = c + 1
+            d = b + 1
+        ElseIf b = aantal Then
+            Cells(a, c) = Mid(inhoud, d, (b - d + 1))
+        End If
+    Next b
+    a = a + 1
+Loop
+Columns(1).EntireColumn.Delete
+
+' eventueel code voor verwijderen dubbele colommen (afhankelijk van hoe constant colomnamen zijn)
+
+c = 3
+Do While Cells(1, c) <> ""
+    If IsNumeric(Left(CStr(Cells(1, c)), 3)) = False Then
+        Columns(c).EntireColumn.Delete
+        c = c - 1
+    End If
+c = c + 1
+Loop
+
+Application.ScreenUpdating = True
+
+End Sub
+
+
+
+Sub interpolatie()
+
+Application.ScreenUpdating = False
+
+Dim som, max, aantal, count, verschil, verschil_per_cel As Double
+Dim begin_loc, a, b, c, opslag As Long 'begin_loc = eerste getal voor interpolatie, a=rij,c=colom,b=loop variabele
+
+c = 3
+Do While Cells(1, c) <> ""
+    aantal = Application.WorksheetFunction.CountIf(Range(Cells(2, c), Cells(21, c)), "<>" & "")
+    ' MsgBox (aantal)
+    begin_loc = 0
+    
+    If aantal > 10 Then ' controle op aantal ingevulde cellen
+        a = 2
+        Do While Cells(a, 1) <> ""
+            If Cells(a, c) = "" And IsNumeric(Cells(a - 1, c)) = True And Application.WorksheetFunction.CountIf(Range(Cells(a, c), Cells(a + 20, c)), "<>" & "") > 0 Then
+                count = 0
+                Do While Cells(a, c) = ""
+                    count = count + 1
+                a = a + 1
+                Loop
+                
+                verschil = Cells(a, c) - Cells(a - count - 1, c) 'verschil tussen laatst gevulde en eerstvolgend gevulde cel
+                
+                begin_loc = a - count  ' locatie laatst gevulde cel
+                
+                verschil_per_cel = verschil / (count + 1) ' liniair verschil
+                
+                For a = begin_loc To begin_loc + count - 1
+                    Cells(a, c) = Cells(a - 1, c) + verschil_per_cel
+                Next a
+'                Cells(a, c) = (Cells(a - 1, c) + Cells(a + 1, c)) / 2
+'            ElseIf Cells(a, c) = "" And Cells(a - 1, c) <> "" Then
+'                Cells(a, c) = Cells(a - 1, c)
+'            ElseIf Cells(a, c) = "" And Cells(a + 1, c) <> "" Then
+'                Cells(a, c) = Cells(a + 1, c)
+            ElseIf Cells(a, c) = "" And IsNumeric(Cells(a - 1, c)) = False Then
+                Cells(a, c) = Cells(a + 1, c)
+            ElseIf Application.WorksheetFunction.CountIf(Range(Cells(a, c), Cells(a + 20, c)), "<>" & "") = 0 Then
+                d = a
+                Do While Cells(d, c) = "" And Cells(1, c) <> ""
+                    d = d + 1
+                Loop
+'                MsgBox ("rijen " & a & " tot en met " & d - 1 & " zijn leeg")
+                a = d - 1
+            End If
+        a = a + 1
+        Loop
+    Else
+        a = 2
+        Do While Cells(a, 1) <> ""
+            If Cells(a, c) <> "" And begin_loc <> 0 Then
+                If (Cells(begin_loc, c) = CInt(Cells(begin_loc, c))) Then
+                    For b = begin_loc + 1 To a - 1
+                        Cells(b, c) = Cells(begin_loc, c)
+                    Next b
+                ElseIf Cells(begin_loc, c) <> CInt(Cells(begin_loc, c)) Then
+                    If Cells(begin_loc, c) - CInt(Cells(begin_loc, c)) > 0.5 Then
+                        opslag = Application.WorksheetFunction.RoundDown(Cells(begin_loc, c).Value + 0.9999, 0)
+                    ElseIf Cells(begin_loc, c) - CInt(Cells(begin_loc, c)) < 0.5 Then
+                        opslag = CInt(Cells(begin_loc, c))
+                    ElseIf Cells(begin_loc, c) < Cells(begin_loc - 1, c) Then
+                        opslag = Application.WorksheetFunction.RoundDown(Cells(begin_loc, c).Value + 0.99999, 0)
+                    ElseIf Cells(begin_loc, c) > Cells(begin_loc - 1, c) Then
+                        opslag = CInt(Cells(begin_loc, c))
+                    End If
+                    For b = begin_loc + 1 To a - 1
+                        Cells(b, c) = opslag
+                    Next b
+                End If
+                begin_loc = a
+            ElseIf Cells(a, c) <> "" Then
+                For b = 2 To a - 1
+                    Cells(b, c) = 0
+                Next b
+                begin_loc = a
+            End If
+        a = a + 1
+        Loop
+        If Cells(a + 1, 1) = "" And begin_loc <> 0 Then
+            For b = begin_loc + 1 To a - 1
+                Cells(b, c) = Cells(begin_loc, c)
+            Next b
+        ElseIf Cells(a + 1, 1) = "" And begin_loc = 0 Then
+            For b = 2 To a - 1
+                Cells(b, c) = 0
+            Next b
+        End If
+    End If
+c = c + 1
+begin_loc = 0
+Loop
+
+Application.ScreenUpdating = True
+
+End Sub
+
+Sub test()
+
+MsgBox (Cells(3, 1) - Cells(4, 1))
+
+
+End Sub
+
+Sub nacht_weg()
+Application.ScreenUpdating = False
+
+a = 1
+Do While Cells(a, 1) <> ""
+    If Cells(a, 3) < 3 Then
+        Rows(a).Delete
+        a = a - 1
+    End If
+a = a + 1
+Loop
+
+Application.ScreenUpdating = True
+
+
+End Sub
+
