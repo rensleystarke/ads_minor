@@ -133,7 +133,7 @@ Tijdens de vrijdagen was er een moment voor het project om de voortgang te tonen
 
 ---
 
-# 3. Project <a name="Project"></a>
+# 4. Project <a name="Project"></a>
 
 Het project was een onderzoek naar het klimaatregelsysteem van De Haagse Hogeschool te Delft, hierbij luidde de hoofdvraag: "Hoe kan sensordata van De Haagse Hogeschool te Delft automatisch worden geanalyseerd en gepresenteerd zodat anomalieën real time gemeld worden?"  Dit was namelijk omdat het gebouw een heleboel sensoren heeft en doormiddel van deze sensoren heeft het gebouw de mogelijkheid zichzelf te reguleren. 
 
