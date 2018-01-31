@@ -32,7 +32,7 @@ In het deel Program courses staan alle program courses uit de study schedule.
 ## 1.1 Toegewezen Datacamp courses <a name="Bewijs_Datacamp"></a>
 Tijdens deze minor waren er een aantal Datacamp courses toegewezen, hieronder is het bewijs dat ik ze heb volbracht. 
 Het bewijs staat in de map [Bewijs Datacamp](https://github.com/rensleystarke/ads_minor/tree/master/datacampV) te vinden.
-Ps. De kwaliteit van de screenshot is af en toe wat slechter door de groote van de courses.
+NB. De kwaliteit van de screenshot is af en toe wat slechter door de groote van de courses.
 
 * [Intro to python for data science](https://github.com/rensleystarke/ads_minor/blob/master/datacampV/Week1_Intro_to_Python_for_Data_science.JPG)
 * [Intermediate python for data science](https://github.com/rensleystarke/ads_minor/blob/master/datacampV/Week2_3_1_Intermediate_Python_for_Data_Science.JPG)
@@ -49,7 +49,7 @@ Ps. De kwaliteit van de screenshot is af en toe wat slechter door de groote van 
 ## 1.2 Toegewezen Coursera courses <a name="Bewijs_Coursera"></a>
 Tijdens deze minor waren er een aantal Coursera courses toegewezen, hieronder is het bewijs dat ik ze heb volbracht. 
 Het bewijs staat in de map [Coursera](https://github.com/rensleystarke/ads_minor/tree/master/coursera) te vinden.
-Ps. De kwaliteit van de screenshot is af en toe wat slechter door de groote van de courses.
+NB. De kwaliteit van de screenshot is af en toe wat slechter door de groote van de courses.
 
 * [Week 1](https://github.com/rensleystarke/ads_minor/blob/master/coursera/week_1_coursera.JPG)
 * [Week 2.1](https://github.com/rensleystarke/ads_minor/blob/master/coursera/week_2_coursera_2_1.JPG)<br  >
